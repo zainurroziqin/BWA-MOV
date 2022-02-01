@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BWA MOV</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_desc">Lebih mudah untuk mengetahui\nfilm yang sedang tampil</string>
+    <string name="presale">Pre Sale</string>
+    <string name="pre_sale_desc">Tidak khawatir ketinggalan\nupdate film terbaru</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">Gunakan e-wallet untuk\ntraksaksi tiket nonton</string>
+    <string name="memulai">Memulai</string>
+    <string name="signin">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email Address</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="selamat_datang">Welcome,\nAngga Risky</string>
+    <string name="simpan_dan_lanjutkan">Simpan Dan Lanjutkan</string>
+    <string name="avengers_desc">The Avengers must stop Thanos, a mad Titan, and his army\nfrom getting their hands on all the infinity stones. However,\nthe mad Tidan is prepared to go any lengths to carry out\nhis insane plan.</string>
+    <string name="date_time"><![CDATA[Date & Time]]></string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="daftar_akun_baru">Daftar Akun Baru</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tiket_telah_berhasil">Tiket telah barhasil dibeli\ndan selamat menikmati film</string>
+</resources>
